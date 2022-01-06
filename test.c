@@ -3,3 +3,7 @@ void change()
 {
    int a;
 }
+
+void main()
+{
+}
