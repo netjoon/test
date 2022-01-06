@@ -6,5 +6,4 @@ void change()
 
 void main()
 {
-   int b;
 }
