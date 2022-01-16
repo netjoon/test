@@ -8,8 +8,7 @@
 # assert   del    global not    with
 # async    elif   if or yield
 import keyword
-#test
-#from another
+
 print(keyword.kwlist)
 
 
